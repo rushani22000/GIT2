@@ -6,8 +6,8 @@ public class Student {
 
 	public static void main(String[] args) {
 		
+		        // Create a Scanner object For Input Data
 
-		
 				Scanner no = new Scanner(System.in);  
 				
 				// Get Values From Student
