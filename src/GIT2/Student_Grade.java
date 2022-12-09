@@ -9,6 +9,9 @@ public class Student_Grade {
 	double avg = 0.0; 
 	String gradeValue = "";
 	
+	/*   Create Constructor for Student_Grade class because 
+	when creating new object from Student_Grade class 
+	first point, second point, third point should be null.   */
 			
 	Student_Grade()
 	{
